@@ -1,1 +1,1 @@
-SQL-Ledger and its flavor
+SQL-Ledger and its flavors
